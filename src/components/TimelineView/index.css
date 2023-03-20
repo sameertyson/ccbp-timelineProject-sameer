@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.chrono-card-container {
+  width: 200px;
+}

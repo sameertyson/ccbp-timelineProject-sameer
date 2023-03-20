@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.project-time-line-card-container {
+  width: 100%;
+}
+.projectImg {
+  width: 100%;
+}
+.duration-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.heading-duration-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.duration-title {
+  font-weight: 600;
+  margin-left: 15px;
+}
+.visit-title {
+  text-decoration: none;
+  font-weight: 700;
+  color: blue;
+}
